@@ -10,9 +10,9 @@ My research interests are...
 
 ## Education
 
-* MSc in **Physics of Complex Systems**, 2018
+* MSc in **Physics of Complex Systems**, 2018  
 *University of Turin*
-* BSc in **Physics**, 2016
+* BSc in **Physics**, 2016  
 *University of Trento*
 
 ## Activities
