@@ -47,4 +47,4 @@ Oct 2015 - Mar 2016, **FBK** and **CIMeC** (Trento), BSc thesis intern
 
 ## Personal
 
-When I'm not doing some data science, I'm riding gravel or playing football :)
+When I'm not doing some data science, then I'm riding gravel :bike: or playing football :soccer:
