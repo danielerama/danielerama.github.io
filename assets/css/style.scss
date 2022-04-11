@@ -3,7 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+  text-align: right;
+}
+
 a {
-  color:#008080;
-  text-decoration:none;
+  color: #008080;
 }
