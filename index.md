@@ -1,8 +1,8 @@
 ## About me
 
-Hi! I am a **PhD student** in **[Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl)** at the [University of Turin](https://www.unito.it/) advised by Prof. [Rossano Schifanella](http://www.di.unito.it/~schifane/).
+Hi! I am a **PhD student** in **[Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl)** at the [University of Turin](https://www.unito.it/) advised by Prof. [Rossano Schifanella](http://www.di.unito.it/~schifane/). My research leverages methods from complex systems analysis and computational social science to study online user behaviors relying on large-scale digital data scources. 
 
-My research interests are...
+Previously, I spent one year at the ISI foundation awarded with a [Lagrange scholarship](https://www.isi.it/en/lagrange-project/scholarships) working on a data-for-good project. Before that, I received my master degree in Physics of Complex Systems from the University of Turin and my bachelor degree in Physics from the University of Trento.
 
 ## Publications
 
@@ -20,11 +20,11 @@ My research interests are...
 
 ## Previous experience
 
-Aug 2020 - current, **Wikimedia Foundation** (remote), Research collaborator  
-May 2020 - July 2020, **Wikimedia Foundation** (remote), Research intern  
+From Aug 2020, **Wikimedia Foundation** (remote), Research collaborator  
+May 2020 - July 2020, **Wikimedia Foundation** (remote), Research intern (mentor Miriam Redi)  
 Nov 2018 - Oct 2019, **ISI Foundation** (Turin), Junior researcher  
-Jan 2018 - Oct 2018, **ISI Foundation** (Turin), MSc thesis intern  
-Oct 2015 - Mar 2016, **FBK** and **CIMeC** (Trento), BSc thesis intern  
+Jan 2018 - Oct 2018, **ISI Foundation** (Turin), MSc thesis intern (advisor Michele Tizzoni)  
+Oct 2015 - Mar 2016, **FBK** and **CIMeC** (Trento), BSc thesis intern (advisor Prof. Renzo Antolini)
 
 ## Education
 
@@ -43,8 +43,7 @@ Oct 2015 - Mar 2016, **FBK** and **CIMeC** (Trento), BSc thesis intern
 
 ### Conferences and schools
 
-### Scholarships and awards
-
-## Personal
-
-When I'm not doing some data science, then I'm riding gravel &#128690 or playing football &#9917.
+* July 2021, **IC2S2**, ETH Zurich (online)
+* May 2021, **PAA Annual Meeting**, online
+* June 2019, **Complexity72h Workshop**, Lucca
+* July 2017, **Summer School on Computational Social Science**, Sardinia
