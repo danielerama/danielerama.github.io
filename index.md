@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About me
 
 Hi! I am a **PhD student** in **[Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl)** at the [University of Turin](https://www.unito.it/) advised by Prof. [Rossano Schifanella](http://www.di.unito.it/~schifane/). My research leverages methods from complex systems analysis and computational social science to study online user behaviors relying on large-scale digital data scources. 
