@@ -12,14 +12,14 @@ Previously, I spent one year at the ISI foundation awarded with a [Lagrange scho
 
 * **A Large Scale Study of Reader Interactions with Images on Wikipedia**  
 <u>Daniele Rama</u>, Tiziano Piccardi, Miriam Redi, Rossano Schifanella  
-*EPJ Data Science*  
-*(IC2S2 ‘21 Conference on Computational Social Science)*  
+Published: *EPJ Data Science*, Volume 11, Article number: 1(2022)  
+(Also presented at *IC2S2 '21 Conference on Computational Social Science*)   
 [paper](https://doi.org/10.1140/epjds/s13688-021-00312-8)
 
 * **Facebook Ads as a Demographic Tool to Measure the Urban-Rural Divide**  
 <u>Daniele Rama</u>, Yelena Mejova, Michele Tizzoni, Kyriaki Kalimeri, Ingmar Weber  
-*WWW ‘20 Proc. of The World Wide Web Conference*  
-*(IC2S2 '19 Conference on Computational Social Science)*  
+Published: *WWW ‘20 Proc. of The World Wide Web Conference*  
+(Also presented at *IC2S2 '19 Conference on Computational Social Science*)  
 [paper](https://doi.org/10.1145/3366423.3380118) 
 
 ## Previous experience
