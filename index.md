@@ -8,13 +8,13 @@ Hi all!
 
 I am Daniele Rama, Postdoctoral researcher at the [University of Turin](https://www.unito.it/), working with Prof. [Rossano Schifanella](http://www.di.unito.it/~schifane/). My research leverages methods from complex systems analysis and computational social science to study online user behaviors relying on large-scale digital data scources.
 
-Previously, I was PhD student in [Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl) at the Dept. of Computer Science of the [University of Turin](https://www.unito.it/). During my doctoral studies, I have also been a [Research collaborator](https://www.mediawiki.org/wiki/Wikimedia_Research/Formal_collaborations) at the Wikimedia Foundation, and visited the [dlab](https://dlab.epfl.ch/) @EPFL (Lausanne, Switzerland) advised by Prof. Robert West. Before joining academia, I worked as a Junior Researcher at the [ISI Foundation](https://www.isi.it/en/home) in Turin.
+Previously, I was a PhD student in [Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl) at the Dept. of Computer Science of the [University of Turin](https://www.unito.it/). During my doctoral studies, I have also been a [Research collaborator](https://www.mediawiki.org/wiki/Wikimedia_Research/Formal_collaborations) at the Wikimedia Foundation, and visited the [dlab](https://dlab.epfl.ch/) @EPFL (Lausanne, Switzerland) advised by Prof. Robert West. Before joining academia, I worked as a Junior Researcher at the [ISI Foundation](https://www.isi.it/en/home) in Turin.
 
 My background is in Physics of complex systems, which I studied in Turin and Trento.
 
 ## Projects
 
-* project 1...
+* coming soon
 
 ## Publications
 
@@ -32,12 +32,12 @@ Published: *WWW ‘20 Proc. of The World Wide Web Conference*
 
 ## Previous experience
 
-Sept 2021 - Dec 2021, **[dlab](https://dlab.epfl.ch/)** (EPFL, Lausanne), Visiting doctoral student (advisor Prof. Robert West)
-From Aug 2020, **Wikimedia Foundation** (remote), Research collaborator  
-May 2020 - July 2020, **Wikimedia Foundation** (remote), Research intern (mentor Miriam Redi)  
-Nov 2018 - Oct 2019, **ISI Foundation** (Turin), Junior researcher  
-Jan 2018 - Oct 2018, **ISI Foundation** (Turin), MSc thesis intern (advisor Michele Tizzoni)  
-Oct 2015 - Mar 2016, **FBK** and **CIMeC** (Trento), BSc thesis intern (advisor Prof. Renzo Antolini)
+* Sept 2021 - Dec 2021, [dlab](https://dlab.epfl.ch/) @EPFL** (Lausanne, Switzerland), Visiting doctoral student (advisor Prof. Robert West)
+* From Aug 2020, **Wikimedia Foundation** (remote), Research collaborator  
+* May 2020 - July 2020, **Wikimedia Foundation** (remote), Research intern (mentor Miriam Redi)  
+* Nov 2018 - Oct 2019, **ISI Foundation** (Turin, Italy), Junior researcher  
+* Jan 2018 - Oct 2018, **ISI Foundation** (Turin, Italy), MSc thesis intern (advisor Michele Tizzoni)  
+* Oct 2015 - Mar 2016, **FBK** and **CIMeC** (Trento, Italy), BSc thesis intern (advisor Prof. Renzo Antolini)
 
 ## Education
 
@@ -50,7 +50,7 @@ Oct 2015 - Mar 2016, **FBK** and **CIMeC** (Trento), BSc thesis intern (advisor 
 
 ### Service
 
-I served as a reviewer for the following conferences:
+I served as a reviewer for the following conferences and workshops:
 * TheWebConf '22, '23
 * CIKM '22
 * WikiWorkshop '21, '22, '23
