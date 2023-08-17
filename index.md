@@ -32,7 +32,7 @@ Published: *WWW ‘20 Proc. of The World Wide Web Conference*
 
 ## Previous experience
 
-* Sept 2021 - Dec 2021, [dlab](https://dlab.epfl.ch/) @EPFL** (Lausanne, Switzerland), Visiting doctoral student (advisor Prof. Robert West)
+* Sept 2021 - Dec 2021, **[dlab](https://dlab.epfl.ch/) @EPFL** (Lausanne, Switzerland), Visiting doctoral student (advisor Prof. Robert West)
 * From Aug 2020, **Wikimedia Foundation** (remote), Research collaborator  
 * May 2020 - July 2020, **Wikimedia Foundation** (remote), Research intern (mentor Miriam Redi)  
 * Nov 2018 - Oct 2019, **ISI Foundation** (Turin, Italy), Junior researcher  
