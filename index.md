@@ -4,9 +4,17 @@ layout: default
 
 ## About me
 
-Hi! I am a **PhD student** in **[Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl)** at the [University of Turin](https://www.unito.it/) advised by Prof. [Rossano Schifanella](http://www.di.unito.it/~schifane/). My research leverages methods from complex systems analysis and computational social science to study online user behaviors relying on large-scale digital data scources. 
+Hi all! 
 
-Previously, I spent one year at the ISI foundation awarded with a [Lagrange scholarship](https://www.isi.it/en/lagrange-project/scholarships) working on a data-for-good project. Before that, I received my master degree in Physics of Complex Systems from the University of Turin and my bachelor degree in Physics from the University of Trento.
+I am Daniele Rama, Postdoctoral researcher at the [University of Turin](https://www.unito.it/), working with Prof. [Rossano Schifanella](http://www.di.unito.it/~schifane/). My research leverages methods from complex systems analysis and computational social science to study online user behaviors relying on large-scale digital data scources.
+
+Previously, I was PhD student in [Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl) at the Dept. of Computer Science of the [University of Turin](https://www.unito.it/). During my doctoral studies, I have also been a [Research collaborator](https://www.mediawiki.org/wiki/Wikimedia_Research/Formal_collaborations) at the Wikimedia Foundation, and visited the [dlab](https://dlab.epfl.ch/) @EPFL (Lausanne, Switzerland) advised by Prof. Robert West. Before joining academia, I worked as a Junior Researcher at the [ISI Foundation](https://www.isi.it/en/home) in Turin.
+
+My background is in Physics of complex systems, which I studied in Turin and Trento.
+
+## Projects
+
+* project 1...
 
 ## Publications
 
@@ -24,6 +32,7 @@ Published: *WWW ‘20 Proc. of The World Wide Web Conference*
 
 ## Previous experience
 
+Sept 2021 - Dec 2021, **[dlab](https://dlab.epfl.ch/)** (EPFL, Lausanne), Visiting doctoral student (advisor Prof. Robert West)
 From Aug 2020, **Wikimedia Foundation** (remote), Research collaborator  
 May 2020 - July 2020, **Wikimedia Foundation** (remote), Research intern (mentor Miriam Redi)  
 Nov 2018 - Oct 2019, **ISI Foundation** (Turin), Junior researcher  
@@ -37,17 +46,20 @@ Oct 2015 - Mar 2016, **FBK** and **CIMeC** (Trento), BSc thesis intern (advisor 
 * BSc in **Physics**, 2016  
 *University of Trento*
 
-## Activities
+## Other activities
 
 ### Service
 
-* TheWebConf 2022
-* WDSSG 2021
-* WikiWirkshop 2021, 2022
+I served as a reviewer for the following conferences:
+* TheWebConf '22, '23
+* CIKM '22
+* WikiWorkshop '21, '22, '23
 
 ### Conferences and schools
 
+* July 2023, **IC2S2**, Copenhagen (Denmark)
+* July 2022, **Summer school on Text mining and NLP**, Istanbul (Turkey)
 * July 2021, **IC2S2**, ETH Zurich (online)
 * May 2021, **PAA Annual Meeting**, online
-* June 2019, **Complexity72h Workshop**, Lucca
-* July 2017, **Summer School on Computational Social Science**, Sardinia
+* June 2019, **Complexity72h Workshop**, Lucca (Italy)
+* July 2017, **Summer School on Computational Social Science**, Sardinia (Italy)
